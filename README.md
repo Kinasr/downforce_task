@@ -1,5 +1,5 @@
 # Downforce Task
-This repository contains a demo test automation script for the Projects Page of the Downforce application. The script is written in TypeScript and uses the Cypress testing framework.
+This repository contains a demo test automation script for the Project Page of the Downforce application. The script is written in TypeScript and uses the Cypress testing framework.
 
 ## Prerequisites
 * Node.js version 14 or above should be installed on your system.
