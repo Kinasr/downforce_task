@@ -1,0 +1,21 @@
+# ignore node_modules directory
+node_modules
+
+# ignore Cypress generated files
+/cypress/screenshots
+/cypress/videos
+
+# ignore build output directory
+/dist
+
+# ignore TypeScript generated files
+*.js
+*.map
+*.d.ts
+
+# ignore Cypress configuration files
+cypress.env.json
+cypress.json
+
+# ignore Visual Studio Code files
+.vscode
